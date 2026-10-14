@@ -25,6 +25,14 @@ Fase 0: fundação documental e organização comunitária.
 
 Ainda não há aplicação, stack escolhida nem licença de código definida. As tecnologias citadas em rascunhos anteriores — incluindo Angular, NestJS, PostgreSQL, Redis e Docker — são hipóteses históricas, não decisões.
 
+## Referência visual
+
+STATUS: EM DISCUSSÃO.
+
+A identidade visual ainda será definida por quem cuidar de UX/UI. A imagem abaixo fica no repositório só como referência desta fase.
+
+![Referência visual PROTEA](assets/logo_1.jpeg)
+
 ## Frases de identidade
 
 - Apoie uma banda. Fortaleça todas.
