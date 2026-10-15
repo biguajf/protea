@@ -18,6 +18,7 @@ A música floresce em comunidade.
 | [GOVERNANCE.md](GOVERNANCE.md) | Como as decisões devem caminhar da coordenação inicial à governança das bandas. |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Como participar, propor e revisar antes de existir código. |
 | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Conduta esperada na comunidade. |
+| [docs/OPEN_FRONTEND.md](docs/OPEN_FRONTEND.md) | Proposta em discussão: frontend aberto, API para clientes independentes, PWA, streaming e integrações com IA. |
 
 ## O que este repositório é agora
 
