@@ -32,7 +32,7 @@ STATUS: EM DISCUSSÃO.
 
 A identidade visual ainda será definida por quem cuidar de UX/UI. A imagem abaixo fica no repositório só como referência desta fase.
 
-![Referência visual PROTEA](assets/logo_1.jpeg)
+![Referência visual PROTEA](docs/assets/logo_1.jpeg)
 
 ## Frases de identidade
 
