@@ -13,11 +13,11 @@ A música floresce em comunidade.
 
 | Documento | Para quê |
 | --- | --- |
-| [MANIFESTO.md](MANIFESTO.md) | Identidade cultural e política. Manifesto fundador, versão inicial. |
-| [VISION.md](VISION.md) | O que o PROTEA pretende ser, e o que ainda não está decidido. |
-| [GOVERNANCE.md](GOVERNANCE.md) | Como as decisões devem caminhar da coordenação inicial à governança das bandas. |
-| [CONTRIBUTING.md](CONTRIBUTING.md) | Como participar, propor e revisar antes de existir código. |
-| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Conduta esperada na comunidade. |
+| [docs/MANIFESTO.md](docs/MANIFESTO.md) | Identidade cultural e política. Manifesto fundador, versão inicial. |
+| [docs/VISION.md](docs/VISION.md) | O que o PROTEA pretende ser, e o que ainda não está decidido. |
+| [docs/GOVERNANCE.md](docs/GOVERNANCE.md) | Como as decisões devem caminhar da coordenação inicial à governança das bandas. |
+| [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) | Como participar, propor e revisar antes de existir código. |
+| [docs/CODE_OF_CONDUCT.md](docs/CODE_OF_CONDUCT.md) | Conduta esperada na comunidade. |
 | [docs/OPEN_FRONTEND.md](docs/OPEN_FRONTEND.md) | Proposta em discussão: frontend aberto, API para clientes independentes, PWA, streaming e integrações com IA. |
 
 ## O que este repositório é agora
